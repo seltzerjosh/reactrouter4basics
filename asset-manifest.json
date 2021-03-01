@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactrouter4basics/static/css/main.0ec45d44.chunk.css",
+    "main.js": "/reactrouter4basics/static/js/main.84d0ef47.chunk.js",
+    "main.js.map": "/reactrouter4basics/static/js/main.84d0ef47.chunk.js.map",
+    "runtime-main.js": "/reactrouter4basics/static/js/runtime-main.08a1c722.js",
+    "runtime-main.js.map": "/reactrouter4basics/static/js/runtime-main.08a1c722.js.map",
+    "static/js/2.9b9fe55d.chunk.js": "/reactrouter4basics/static/js/2.9b9fe55d.chunk.js",
+    "static/js/2.9b9fe55d.chunk.js.map": "/reactrouter4basics/static/js/2.9b9fe55d.chunk.js.map",
+    "index.html": "/reactrouter4basics/index.html",
+    "static/css/main.0ec45d44.chunk.css.map": "/reactrouter4basics/static/css/main.0ec45d44.chunk.css.map",
+    "static/js/2.9b9fe55d.chunk.js.LICENSE.txt": "/reactrouter4basics/static/js/2.9b9fe55d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08a1c722.js",
+    "static/js/2.9b9fe55d.chunk.js",
+    "static/css/main.0ec45d44.chunk.css",
+    "static/js/main.84d0ef47.chunk.js"
+  ]
+}
